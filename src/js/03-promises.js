@@ -18,7 +18,7 @@ function createPromise(amountValue, delayValue) {
     }
   });
 }
-// sff
+
 function onSubmitBtn(evt) {
   let delayValue = Number(inputDelay.value);
   let stepValue = Number(inputStep.value);
